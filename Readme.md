@@ -42,7 +42,7 @@ I use _python pandas_ for the analysis of the captures and _matplotlib_ for
 
 ```bash
 # On Fedora
-sudo dnf install python-pandas
+sudo dnf install python-pandas python-matplotlib
 # On Ubuntu
-sudo apt-get install pyhton-pandas
+sudo apt-get install pyhton-pandas python-matplotlib
 ```
